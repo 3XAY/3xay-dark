@@ -1,0 +1,21 @@
+{
+  "name": "3xay-dark",
+  "displayName": "3XAY Dark",
+  "description": "A dark, minimalist theme, by 3XAY (Ayan Bindal)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "3XAY",
+        "uiTheme": "vs-dark",
+        "path": "./themes/3XAY-color-theme.json"
+      }
+    ]
+  }
+}
