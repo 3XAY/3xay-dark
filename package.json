@@ -2,7 +2,21 @@
   "name": "3xay-dark",
   "displayName": "3XAY Dark",
   "description": "A dark, minimalist theme, by 3XAY (Ayan Bindal)",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "3XAY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3XAY/3xay-dark"
+  },
+  "keywords":[
+    "theme",
+    "dark theme",
+    "high contrast",
+    "3xay",
+    "midnight theme",
+    "minimalist",
+    "minimal"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
